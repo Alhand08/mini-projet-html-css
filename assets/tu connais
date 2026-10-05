@@ -1,0 +1,47 @@
+theme:gp de f1
+gp:monza
+
+-stand
+-depassement
+-vsc
+-drapeau rouge/vert/jaune
+-accident
+-pluie
+-casse moteur
+-payement papa stroll
+-victoire
+-défaite
+-depart
+-ultime tour
+-qualifications 1 /q2/q3
+-track limits 
+-tete a queue 1
+
+qualif q1 choix entre attaque ou rouler en reserve 
+si rouler en reserve alors aller en q2 sinon tu te crash et tu pars 17
+qualif q2 choix entre reserve ou attaque ou ne pas tt donner si attaque tu passe en q3 sinon tu passe pas de justeess p11 sinon tu passe pas du tt tu pars 15
+qualif q3 choix entre attaquer pour la pole ou non 
+si attaquer alors tu gagnes les qualifs et part en pôle sinon tu loupes ta chance et tu pars 6ème
+
+Course :
+tour de formation choix entre bien chauffer ses gommes ou partir avec les pneus froids
+si pneu froid tu pars mal autre tu pars bien 
+
+defense premier tour si pneu froid tu choisi de defendre violemment lautre tu laisse la porte 
+si bien parti tu choissis de attaquer sans relache(tu te casse laileron avant tu dois aller au stand) ou tu reste derirer sagement afin de toffrir un opportunite(le pilote devant toi fait une erreur dans le virage dascari tu en profite pour le doubler)
+
+Durant la course la météo change 2 choix soi tu restes soit tu changes
+si tu rentres tu pars avec des gommes mieux équipé sinon tu prends le risque de rester sur piste
+ tour 20 drapeau jaune gros choc Lance stroll se crash déploiement de la safety car 2 choix tu restes tu box
+si tu box tu vas pouvoir prendre des meilleurs pneus adaptés à la météo sinon tu gardes tjrs le risque de te crash
+tour 25 spin soit tu choisis de rester en piste soit tu decide de box box et mettre de noiuveu peneu
+tours 33 drapeau jaune Sergio Perez abandonne pour casse moteur 2 choix tu box tu restes si tu restes t te crash et tu peux t'en vouloir cas toi même soit tu mets des pneus intermédiaires
+
+tour 42 drapeau rouge russel a fait un attenta sur charles leclerc depart aggressif (bonne option sa te place bien )ou depart traznquillr (mauvaise option tu perd 2 place )
+
+tour 45  drapeu black and wxhite tu arrive a cours davertissement prochains track limits tu ressoit une penalite soit tu choisi de ralentir un peu topn, rythme pour eviter la penalite au risqUE DE TE FAIRTE RATTRAPER SINOn tu continuer a pousser au risque de prendre la penalite
+
+ultime tour le pilote devant toi et en perdition tu fais tt pour le doubler au risque de te lmettre ds le mur(meilleur choix tu gagne une place ) ou sinon etre patient (tu narrive pas a le doubler )
+
+fin(resultat en fonction de ta place )
+defaite(mort ou pas ds les points ) ou victoire(ds les pointz) vicrtoiree ++(si podium)
