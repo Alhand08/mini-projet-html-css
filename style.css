@@ -14,6 +14,11 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px;
+    background-image: url("C:\Users\alexi\Documents\GitHub\mini-projet-html-css\assets\backgrounds\monza-entering-the-circuit.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 
 /* Conteneur principal */
